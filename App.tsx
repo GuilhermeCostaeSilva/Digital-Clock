@@ -1,7 +1,7 @@
 import React from 'react';
-import { Home } from './src/screens/Home';
+import { Routes } from './src/routes';
 
 export const App: React.FC = () => {
-  return <Home />;
+  return <Routes/> ;
 }
 
